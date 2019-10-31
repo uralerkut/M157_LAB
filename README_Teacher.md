@@ -17,7 +17,7 @@ Kevin Linh | Ural Erkut
 2. [Requirements]
 3. [Preparing your Pi]
 4. [Installing RetroPie on top of Raspbian]
-5. [Installing FTP for transferring ROMs]
+5. [Installing FTP for ROM transfer]
 6. [PLAY!]
 7. [MODS!]
 8. [Bibliography for teachers]
