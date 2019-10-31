@@ -267,7 +267,21 @@ dtoverlay=waveshare32b:rotate=270,speed=80000000,fps=60
 ```
 Then reboot.
 
-It is also possible to overclock your hardware in your Pi and enhance your gaming experience as well as the overall performance of your Pi.
+In case you've heard that overclocking your computer is possible then there also must be a possible way too get the best performance out of the Pi. 
+
+Try to find a way too make your Pi faster and enhance your gaming experience as well as the general performance of your Raspberry Pi. 
+
+Tipps to get a better performance:
+
+- Try to overclock your Raspberry Pi (Be aware of overheating!!!)
+- Perhaps try to use a lightweight OS
+- Remove high ressource programs
+
+If you feel like you need more information try this:
+
+https://www.makeuseof.com/tag/raspberry-pi-performance-tips/
+
+
 
 ## FAQ
 
