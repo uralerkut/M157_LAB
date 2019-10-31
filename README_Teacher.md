@@ -1,4 +1,4 @@
- https://github.com/uralerkut/M17_LAB 
+ https://github.com/uralerkut/M157_LAB 
 
 # Version for teachers
 
