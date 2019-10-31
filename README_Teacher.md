@@ -147,6 +147,7 @@ The script is executed with
     sudo ./retropie_setup.sh
 ```
 The screen should look like this then:
+
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/16218285/f06f3ba8-3738-11e6-9ccc-be601172713b.png)
 
 ### Full install
@@ -163,6 +164,8 @@ in the terminal in order to start RetroPie.
 ## Installing FTP for transferring ROMs
 
 If you wish to use wifi to transfer roms over the network rather than a USB stick or ethernet cable you will need to setup your wifi- which can also be done from the Retropie menu in emulationstation:
+
+
 
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/16217941/92b08b8c-3735-11e6-8f20-5d1550af0882.png)
 
@@ -193,8 +196,12 @@ Follow the same procedure, but with a different program called
 ```
 https://cyberduck.io/?l=en
 
+
+
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/12865832/7d9afb68-cc75-11e5-81b2-4529991e1821.png)
+
 You can also use your raspberry pi its ip address instead of 
+
 ```bash
  retropie
 ```

@@ -138,6 +138,7 @@ The script is executed with
     sudo ./retropie_setup.sh
 ```
 The screen should look like this then:
+
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/16218285/f06f3ba8-3738-11e6-9ccc-be601172713b.png)
 
 ### Full install
