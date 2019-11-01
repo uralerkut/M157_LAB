@@ -271,11 +271,11 @@ In case you've heard that overclocking your computer is possible then there also
 
 Try to find a way too make your Pi faster and enhance your gaming experience as well as the general performance of your Raspberry Pi. 
 
-Tipps to get a better performance:
+Tips to get a better performance:
 
 - Try to overclock your Raspberry Pi (Be aware of overheating!!!)
-- Perhaps try to use a lightweight OS
-- Remove high ressource programs
+- Perhaps try to use a lighter OS
+- Remove ressource hungry programs
 
 If you feel like you need more information try this:
 
