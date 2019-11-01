@@ -142,8 +142,6 @@ The screen should look like this then:
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/16218285/f06f3ba8-3738-11e6-9ccc-be601172713b.png)
 
 ### Full install
-This will install the core and main packages which are equivalent to what is provided with the RetroPie SD image.
-
 Now, you have to copy your rom files into the ROMs directory. If you followed the steps above the main directory for all ROMs is ~/RetroPie/roms (or /home/pi/RetroPie/roms, which is the same here). In this directory there is a subdirectory for every emulated system, e.g., nes, snes, megadrive. Attention has to be taken for the extensions of the ROM files. 
 
 EmulationStation can be run from the terminal by typing 
@@ -160,7 +158,7 @@ The easiest way to transfer files is via a physical storage device over USB or d
 
 A transfer via a wireless connection is self-evidently possible. However, for the sake of this module and to challenge you, you have to find out yourself how to do that.
 
-Do not worry and do not think too far; it is easier than you might guess.
+Do not worry and do not think too far; it is easier than you might assume.
 
 Protip: **SSH**
 
@@ -267,7 +265,7 @@ dtoverlay=waveshare32b:rotate=270,speed=80000000,fps=60
 ```
 Then reboot.
 
-In case you've heard that overclocking your computer is possible then there also must be a possible way too get the best performance out of the Pi. 
+In case you have heard that overclocking your computer is possible then there also must be a possible way to get the best performance out of the Pi. 
 
 Try to find a way too make your Pi faster and enhance your gaming experience as well as the general performance of your Raspberry Pi. 
 
@@ -287,11 +285,11 @@ https://www.makeuseof.com/tag/raspberry-pi-performance-tips/
 
 ### Why do some emulators not show up?
 
-The RetroPie SD image only ships with the most common emulators, if a system you want is missing you first need to make sure that emulator is installed. The details for installing additional emulators is explained on the [first installation page](https://retropie.org.uk/docs/First-Installation#installing-additional-emulators--ports)
+The RetroPie SD image only ships with the most common emulators, if a system you want is missing you first need to make sure that emulator is installed.
 
 If the system still doesn't show up in Emulation Station, only emulators with ROMs inside its respective folder will show up in the EmulationStation GUI (given that the specific emulator is installed). For example, for the Nintendo 64 emulator to show up, you must have at least one ROM in the `~/RetroPie/roms/n64/` folder. For ROM types supported by each emulator, go to the wiki page for that specific system/emulator.
 
-### Why can't I SSH as root anymore?
+### Why can I not SSH as root anymore?
 
 The root password is disabled by default (as is the case for Raspbian and many other linux distros).
 
