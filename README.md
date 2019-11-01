@@ -25,6 +25,8 @@ Kevin Linh | Ural Erkut
 ## Intro
 
 RetroPie is a fantastic Linux distribution to turn your Raspberry Pi into a fully featured game console and computer emulator. RetroPie runs Emulation Station and supports all major retro video game emulators, allowing you to play games from the NES, SNES, Genesis, Atari, and more on your Pi, thus becoming your own Raspberry Pi emulator.
+Purchasing one or more controllers and an SD card large enough might be an excellent choice to play comfortably
+Once your Retropie installed, with the necessary equipment, you will only need to find ROMs to add new games to your emulator
 This README aims to guide users in installing RetroPie on their Raspberry Pi on top of Raspbian. 
 
 The ROMs (games) needed for the RetroPie, can be downloaded from this following link:
@@ -34,7 +36,7 @@ https://www.downloadroms.io/
 
 ## What is an emulator?
 
-An emulator is software that makes a computer behave like another computer, or in the case of RetroPie a computer that behaves like a video game console such as the Super Nintendo. The RetroPie SD image comes pre-installed with many different emulators. Additional emulators may be installed from within RetroPie. 
+An emulator is software that makes a computer behave like another computer, or in the case of RetroPie a computer that behaves like a video game console such as the Super Nintendo. The RetroPie SD image comes pre-installed with many different emulators. 
 
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/22178094/cf801644-dfe2-11e6-8327-71a61d540d2f.png)
 
