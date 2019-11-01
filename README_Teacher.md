@@ -37,15 +37,15 @@ An emulator is software that makes a computer behave like another computer, or i
 
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/22178094/cf801644-dfe2-11e6-8327-71a61d540d2f.png)
 
-## What is an emulator?
-
-An emulator is software that makes a computer behave like another computer, or in the case of RetroPie a computer that behaves like a video game console such as the Super Nintendo. The RetroPie SD image comes pre-installed with many different emulators. Additional emulators may be installed from within RetroPie. 
-
-![Capture](https://cloud.githubusercontent.com/assets/10035308/22178090/cf5cad76-dfe2-11e6-8c63-ec48cc4755f6.png)
+## What is a ROM?
 
 ROMs are digital versions of game cartridges. Loading up a ROM in an emulator is the equivalent of putting a cartridge in a game console.
 
-ROMs are copyrighted content and as such are not included with RetroPie.
+ROMs are copyrighted content and as such are not included with RetroPie. 
+
+![Capture](https://cloud.githubusercontent.com/assets/10035308/22178090/cf5cad76-dfe2-11e6-8c63-ec48cc4755f6.png)
+
+
 
 
 
