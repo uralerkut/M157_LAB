@@ -162,15 +162,13 @@ in the terminal in order to start RetroPie.
 
 ## Installing FTP for transferring ROMs
 
-If you wish to use wifi to transfer roms over the network rather than a USB stick or ethernet cable you will need to setup your wifi- which can also be done from the Retropie menu in emulationstation:
+If you wish to use Wifi to transfer roms over the network rather than a USB stick or ethernet cable you will need to setup your wifi- which can also be done from the Retropie menu in emulationstation.
 
-
-
-![Capture](https://cloud.githubusercontent.com/assets/10035308/16217941/92b08b8c-3735-11e6-8f20-5d1550af0882.png)
 
 Once configured, you will see your IP address on the top left. You will need to enter this and your Pi its name in order to connect and transfer games to it.
 
-![Capture](https://cloud.githubusercontent.com/assets/10035308/16217944/92cb07fa-3735-11e6-9239-66fba394c669.png)
+**IP Address should start with 10.xx.xx.xx inside the intranet of TBZ**
+
 
 ### Enable SSH
 
