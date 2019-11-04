@@ -175,11 +175,11 @@ Once configured, you will see your IP address on the top left. You will need to 
 Before we install  a SFTP client however, we need to make sure that SSH is enabled.
 SSH stands for secure shell. You can remotely connect to the raspberry pi terminal with an SSH client. A popular ssh client is WINSCP for Windows.
 
-**```bash 
+``` 
 Launch Raspberry Pi Configuration from the Preferences menu.
 Navigate to the Interfaces tab.
 Select Enabled next to SSH.
-Click OK.**
+Click OK
 ```
 
 Now SSH is enabled. Reboot.
