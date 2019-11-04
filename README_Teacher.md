@@ -397,7 +397,7 @@ sdram_over_voltage=2
 
 ### Why do some emulators not show up?
 
-The RetroPie SD image only ships with the most common emulators, if a system you want is missing you first need to make sure that emulator is installed. The details for installing additional emulators is explained on the [first installation page](https://retropie.org.uk/docs/First-Installation#installing-additional-emulators--ports)
+The RetroPie SD image only ships with the most common emulators, if a system you want is missing you first need to make sure that emulator is installed.
 
 If the system still doesn't show up in Emulation Station, only emulators with ROMs inside its respective folder will show up in the EmulationStation GUI (given that the specific emulator is installed). For example, for the Nintendo 64 emulator to show up, you must have at least one ROM in the `~/RetroPie/roms/n64/` folder. For ROM types supported by each emulator, go to the wiki page for that specific system/emulator.
 
