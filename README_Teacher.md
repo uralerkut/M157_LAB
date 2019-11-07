@@ -203,6 +203,9 @@ https://cyberduck.io/?l=en
 
 ![Capture](https://cloud.githubusercontent.com/assets/10035308/12865832/7d9afb68-cc75-11e5-81b2-4529991e1821.png)
 
+![Capture](https://i.imgur.com/ATgoR7D.jpg)
+
+
 You can also use your raspberry pi its IP-Address instead of 
 
 ```bash
