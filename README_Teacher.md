@@ -167,7 +167,11 @@ If you wish to use Wifi to transfer roms over the network rather than a USB stic
 
 Once configured, you will see your IP address on the top left. You will need to enter this and your Pi its name in order to connect and transfer games to it.
 
-**IP Address should start with 10.xx.xx.xx inside the intranet of TBZ**
+You may ignore this part if your pi is connected via ethernet.
+
+![Capture](https://i.imgur.com/rAPhMD9.jpg)
+
+![Capture](https://i.imgur.com/RCFKKjF.jpg)
 
 
 ### Enable SSH
